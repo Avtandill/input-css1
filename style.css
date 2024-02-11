@@ -1,0 +1,83 @@
+@font-face {
+    font-family: inter;
+    src: url("fonts/Inter-Regular.ttf");
+}
+
+.em {
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid #E0E0E0;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+
+.em::placeholder {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+}
+
+
+.pw {
+    width: 452px;
+    height: 45px;
+    border-radius: 15px;
+    border: 1px solid #FF0000;
+    background-color: #610000;
+    padding-left: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+    color: #F07272;
+    margin-bottom: 10px;
+}
+.pw::placeholder {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+    color: #F07272;
+}
+
+
+.number {
+    width: 527px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #A8AB00;
+    padding-left: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+    color: #A8AB00;
+    margin-bottom: 10px;
+}
+.number::placeholder {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+    color: #A8AB00;
+}
+
+
+.text {
+    width: 300px;
+    height: 45px;
+    border-radius: 30px;
+    border: 2px solid #F9FE03;
+    background-color: #292828;
+    padding-left: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+    color: #F9FE03;
+}
+.text::placeholder {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+    color: #F9FE03;
+}
